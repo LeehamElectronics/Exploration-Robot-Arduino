@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\arduino_code",
     "\\media"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\arduino_code\\arduino_code.ino",
   "PreviewInSolutionExplorer": false
 }
