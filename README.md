@@ -14,7 +14,7 @@ This project is developed entirely by Liam Price in order to pass the VET IT Sch
 #### And here is a little article they posted about it: https://museumsvictoria.com.au/melbournemuseum/learning/top-designs-2021/vce-vet-programs/integrated-technologies/
 #### And lastly here is an embarrassing interview they posted of me where I say 'umm' more than anything else: https://www.youtube.com/watch?v=ty_FZUM7rPA
 
-##### And here is a link to download the design folio for this project: ....
+##### And here is a link to download the design folio for this project: https://drive.google.com/file/d/1mk_wz_rQMKMcSXnNM33uG4Ho1Qj2O3Wf/view?usp=sharing
 
 ## Technologies
 Project is created with:
