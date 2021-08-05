@@ -12,10 +12,10 @@
  * https://github.com/LeehamElectronics/Exploration-Robot-Control-Panel                              *
  *                                                                                                   *
  * If you'd like to support my open source work, buy me a coffee:                                    *
- * https://www.paypal.com/paypalme/liamproice/														 *
- *																									 *
- * Check out my website and portfolio at https://ldprice.com								         *
- *																									 *
+ * https://www.paypal.com/paypalme/liamproice/                                                       *
+ *                                                                                                   *
+ * Check out my website and portfolio at https://ldprice.com                                         *
+ *                                                                                                   *
  *                                                                                                   *
  * And if you need help, feel free to email me at liam@ldprice.com                                   *
  * Thanks!                                                                                           *

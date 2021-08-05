@@ -3,15 +3,15 @@
 
 /******* Pinout Menu for wiring up robot *******
  *                                             *
- * Here for easy reference					   *
+ * Here for easy reference                     *
  * crane_rot_axis.attach(25);       PURPLE     *
  * crane_fa_axis.attach(26);        BROWN      *
  * crane_ca_axis.attach(27);	    YELLOW     *
  * crane_ca_2_axis.attach(32);      BLUE       *
  * crane_gripper_servo.attach(33);  WHITE      *
  * #define INTERRUPT_PIN 39                    *
- * I2C SCL: 22								   *
- * I2C SDA: 21								   *
+ * I2C SCL: 22                                 *
+ * I2C SDA: 21                                 *
 ************************************************/
 
 #define headLightRelayPin 23
