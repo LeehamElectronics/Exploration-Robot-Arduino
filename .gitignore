@@ -21,6 +21,10 @@ Exlploration Robot Arduino Software.vcxproj.filters
 CppProperties.json
 
 
+
+.vs/
+
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
