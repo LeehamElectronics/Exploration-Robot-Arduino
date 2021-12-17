@@ -17,4 +17,4 @@ I originally built this robot for a school project (Year 12 VCE VET) for my Inte
 ![zoomed lower res1](https://user-images.githubusercontent.com/51737378/136334677-131c8da8-4285-421a-ba1d-ef4e5d1ed615.png)
 ![GitHub Logo](media/IoTER-AC-GitHub-Logo.png)
 
-###### Credit to my awesome high school teacher Steve Donaldson for teaching me fundamentals in electronics / general technologies and Graeme Lipback for supporting me while I built this project at school!
+###### Credit to my awesome high school teacher Steve Donaldson for teaching me fundamentals in electronics / general technologies and Graeme Lipback for supporting me while I built this project at school.
